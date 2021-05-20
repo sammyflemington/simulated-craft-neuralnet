@@ -6,6 +6,7 @@ This project was created in collaboration with Louis Lebouef.
 If you wish to build this project, you will need:
 - pygame
 
+NOTE: This is still a work in progress.
 The user-friendly interface is not complete. Run generator.py and edit parameters within to get an idea of how this project works (sorry).
 
 # What is this project?
