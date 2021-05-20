@@ -19,5 +19,7 @@ This project provides:
 This project was inspired by John Buffer's AutoDrone project, available [here](https://github.com/johnBuffer/AutoDrone)
 
 Other resources used:
+
 [Sebastian Lague: Neural Networks series](https://www.youtube.com/watch?v=bVQUSndDllU)
+
 [Kie Codes: Genetic Algorithm in Python](https://www.youtube.com/watch?v=nhT56blfRpE)
