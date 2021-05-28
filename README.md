@@ -16,6 +16,11 @@ This project provides:
 - Ability to train the neural networks to fly these craft to their 'goal destinations'
 - A realtime visualization module to view both the craft and the activity of the neural network
 
+# Example
+Here's the results after 500 generations of evolution:
+
+https://user-images.githubusercontent.com/69018340/120042115-18caa000-bfcf-11eb-86e0-71c8069b70dd.mp4
+
 
 This project was inspired by John Buffer's AutoDrone project, available [here](https://github.com/johnBuffer/AutoDrone)
 
