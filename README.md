@@ -21,6 +21,7 @@ Here's the results after 500 generations of evolution:
 
 https://user-images.githubusercontent.com/69018340/120042115-18caa000-bfcf-11eb-86e0-71c8069b70dd.mp4
 
+As you can see, there is still some room for improvement, especially with this complex dual-thruster configuration.
 
 This project was inspired by John Buffer's AutoDrone project, available [here](https://github.com/johnBuffer/AutoDrone)
 
