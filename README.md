@@ -17,7 +17,7 @@ This project provides:
 - A realtime visualization module to view both the craft and the activity of the neural network
 
 # Example
-Here's the results after 500 generations of evolution:
+Here's the results after 500 generations of evolution. The drone is trained to fly to a set of waypoints, marked with a red dot:
 
 https://user-images.githubusercontent.com/69018340/120042115-18caa000-bfcf-11eb-86e0-71c8069b70dd.mp4
 
